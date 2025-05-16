@@ -25,10 +25,10 @@ An AI-powered Fantasy Cricket Team Generator built using **Python** and **Stream
 
 ---
 
-## 📦 Installation
+## 🙋‍♂️ Author
 
-### 1. Clone the Repository
+**H. Divyan** – AI & Tech Enthusiast 🧠  
+Passionate about building interactive AI apps and smart user experiences.
 
-```bash
-git clone https://github.com/your-username/fantasy-cricket-chatbot.git
-cd fantasy-cricket-chatbot
+[![GitHub](https://img.shields.io/badge/GitHub-@Megavarshan-181717?style=for-the-badge&logo=github)](https://github.com/Megavarshan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Megavarshan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/megavarshan)
