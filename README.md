@@ -27,7 +27,7 @@ An AI-powered Fantasy Cricket Team Generator built using **Python** and **Stream
 
 ## 🙋‍♂️ Author
 
-**H. Divyan** – AI & Tech Enthusiast 🧠  
+**MEGAVARSHAN. A** – AI & Tech Enthusiast 🧠  
 Passionate about building interactive AI apps and smart user experiences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Megavarshan-181717?style=for-the-badge&logo=github)](https://github.com/Megavarshan)
